@@ -1,0 +1,57 @@
+.first {
+    display: flex;
+    justify-content: center;
+}
+.black {
+    background-color: black;
+    width: 400px;
+    height: 250px;
+}
+ .second {
+   width: 300px;
+   height: 200px;
+   border: 3px solid gray;
+ }
+ .red {
+    background-color: red;
+    border-radius: 50% ;
+    height: 120px;
+    width: 120px;
+    position: relative;
+    top: 40px;
+    left:80px;
+
+ }
+ .sutun {
+    display: flex;
+    height: 270px;
+    width: 250px;
+    border: 1px solid black;
+    align-items: flex-end;
+    justify-content: space-around;
+
+
+ }
+ .ab{  width: 50px;
+    background-color: blue;
+    height: 250px;
+    border: 1px;
+ }
+ .bc { background-color: black;
+    height: 174px;
+    width: 50px;
+
+ }
+ .cd{ background-color: blueviolet;
+    height: 92px;
+    width: 50px;
+ }
+ .de{ background-color: chartreuse;
+   height: 221px;
+   width: 50px;
+ }
+ .nem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
